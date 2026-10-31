@@ -1,2 +1,3 @@
-# GitHub-Archive-Downloader
-A simple GUI for downloading github repositories
+# GitHub Archive Downloader
+A simple GUI for downloading GitHub repositories
+![GitHub Archive Downloader logo](assets/logo.png)
